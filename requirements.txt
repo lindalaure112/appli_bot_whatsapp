@@ -1,0 +1,11 @@
+Flask
+Flask-RESTful
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-Migrate
+python-dotenv
+requests
+APScheduler
+gTTS
+yt-dlp
+gunicorn
